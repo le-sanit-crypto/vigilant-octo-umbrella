@@ -1,0 +1,24 @@
+# Requirements for AI Trading System
+
+## Core Libraries
+- numpy
+- pandas
+- matplotlib
+
+## Trading Libraries
+- ccxt
+- backtrader
+
+## Machine Learning
+- scikit-learn
+- tensorflow
+- keras
+
+## Optimization
+- Optuna
+- ray[tune]
+
+## Others
+- Flask
+- Streamlit
+- requests
